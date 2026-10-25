@@ -1,6 +1,6 @@
 cask "reezyn" do
-  version "0.2.4"
-  sha256 "a0d4b76f297c7aa150e3bc858b8c8489d03e1dc7c760957d5246c519d23a963d"
+  version "0.2.5"
+  sha256 "2cff7bbd43eac36c876404c389bfe688fb84fe7e178f6217ff95c6eaa7833a40"
 
   url "https://reezyn.elastikmind.com/downloads/Reezyn-#{version}.dmg"
   name "Reezyn"
