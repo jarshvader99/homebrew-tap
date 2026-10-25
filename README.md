@@ -1,6 +1,9 @@
 # Reezyn tap
 
+Homebrew 7 asks you to trust a third-party tap once:
+
 ```bash
+brew trust jarshvader99/tap
 brew install --cask jarshvader99/tap/reezyn
 ```
 
